@@ -9,7 +9,7 @@ def summon_captain_planet(aspects)
 end
 
 def long_planeteer_calls(calls)
-  calls.reduce { |call| call.lenght
+  calls.reduce { |memo,call| call.lenght
 end
 
 def find_the_cheese(foods)
